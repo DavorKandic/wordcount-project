@@ -1,1 +1,5 @@
-<h1> I LIKE TO COUNT WORDS! </h1>
+<h1> About Me </h1>
+
+<p>Hi, my name is Davor Kandic and I like to count words! ;)</p>
+
+<a href="{% url 'home' %}">Return Home</a>
